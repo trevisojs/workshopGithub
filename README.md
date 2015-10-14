@@ -1,3 +1,3 @@
 ### Il mio nuovo progetto Git
 
-Git è super figo.
+Git è super culo.
